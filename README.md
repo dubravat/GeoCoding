@@ -3,7 +3,8 @@
 ### May 2022
 
 ----
-Presentation : [Geocoding for all](geocoding_for_all.pdf)<br>
+Presentation : [Geocoding for all](geocoding_for_all.pdf) <br>
+QGIS wiki Page :  https://github.com/qgis/QGIS/wiki/QOD-April-2022 <br>
 Video on YouTube : https://youtu.be/G-rQKuSSCkg
 ----
 
